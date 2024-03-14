@@ -1,0 +1,13 @@
+{
+    "emmet.includeLanguages": { "liquid": "html" },
+    // "editor.formatOnSave": true,
+    "[liquid]": {
+        "editor.defaultFormatter": "sissel.shopify-liquid",
+        "editor.formatOnSave": true
+    },
+    // Enables formatting of all .css.liquid files
+    "[liquid-css]": {
+        "editor.defaultFormatter": "sissel.shopify-liquid",
+        "editor.formatOnSave": true
+    }
+}
