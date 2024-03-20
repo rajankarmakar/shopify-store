@@ -5,7 +5,8 @@
         "type": "header",
         "settings": {
           "header": "My logo",
-          "site_nav_menu": ""
+          "site_nav_menu": "",
+          "logo_image": "shopify:\/\/shop_images\/photo-1521572163474-6864f9cf17ab.jpg"
         }
       }
     },
